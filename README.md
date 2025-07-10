@@ -1,4 +1,4 @@
-News App - Real-Time News Aggregator
+🗞️ News App - Real-Time News Aggregator
 This is a simple, clean, and responsive News Web Application built using HTML, CSS, and JavaScript. It fetches the latest news articles using the NewsAPI and displays them in a visually appealing card format.
 
 🔍 Features
@@ -23,11 +23,3 @@ JavaScript (ES6+) – For API handling, DOM manipulation, and dynamic content.
 
 NewsAPI – For fetching live news articles.
 
-📁 Project Structure
-bash
-Copy
-Edit
-├── index.html        # Main HTML file
-├── style.css         # All styling and responsive design
-├── script.js         # JavaScript logic to fetch & render news
-└── logo.png          # (Optional) Your project logo
